@@ -1,0 +1,5 @@
+missing_lag_columns,row_count,total_qty_dispensed,earliest_date,latest_date
+qty_lag_28,14,6674,2022-03-09,2022-03-22
+"qty_lag_14, qty_lag_28",7,3564,2022-03-02,2022-03-08
+"qty_lag_7, qty_lag_14, qty_lag_28",6,2953,2022-02-24,2022-03-01
+"qty_lag_1, qty_lag_7, qty_lag_14, qty_lag_28",1,503,2022-02-23,2022-02-23

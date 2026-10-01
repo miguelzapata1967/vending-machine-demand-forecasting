@@ -1,0 +1,6 @@
+device_id,device_category,restock_priority,review_frequency_days,estimated_lead_time_days,total_qty_dispensed,total_restock_events
+device_6726f2a054f54836aaabe8c7643286bc,Overused (high volume + frequent restocks),High,3,2.0,70397,142
+device_65ae7ea424c57d46ac409256fe359349,Overused (high volume + frequent restocks),High,3,2.0,67741,142
+device_c287be7e02167387bf9e7eca061ce5b5,Overused (high volume + frequent restocks),High,3,2.0,61034,151
+device_af645ebf4c96eb6e430529a2a9913686,"Low volume, frequent restocks (inefficient)",Low,14,2.0,59568,148
+device_0749c361d8ac7047c2f98fbcb2eadd16,Underused (low volume + low restocks),Low,21,2.0,58788,139
